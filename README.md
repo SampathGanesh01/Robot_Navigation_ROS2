@@ -5,7 +5,7 @@ The Below Robot is simulated in Gazebo Environment and Able to move Autonomously
 
 ![image](https://github.com/SampathGanesh01/Turtlebot3_Navigation/assets/84275114/8f0f3d3d-2bdd-42b7-9432-c46190ed060f)
 
-TurtleBot3 (An open source Robt from Robotis)
+TurtleBot3 (An open source Robot from Robotis)(Humble--Version)
 ## Steps to Repeat the same 
 Clone the Repository and  Before Building it install ROS2 Humble and Nav2 packages You can get sufficient Guidelines from the Official Wikis of Both 
 ### Steps - SLAM
